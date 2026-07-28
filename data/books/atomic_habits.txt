@@ -1,0 +1,48 @@
+Atomic Habits — Study Notes
+Author of original book: James Clear
+Topic: Habit building
+
+CORE THESIS
+
+Atomic Habits argues that remarkable results come not from massive one-time efforts but from tiny improvements compounded over time. Getting one percent better every day produces a system where progress multiplies: small habits are the "atoms" of larger outcomes. The book's central inversion is that you do not rise to the level of your goals — you fall to the level of your systems. Goals set direction, but systems (the daily processes you repeat) determine progress.
+
+IDENTITY-BASED HABITS
+
+The deepest layer of behavior change is identity. Clear describes three layers: outcomes (what you get), processes (what you do), and identity (what you believe). Most people work outside-in, starting with outcomes ("I want to lose weight"). Lasting change works inside-out: decide who you wish to be, then prove it to yourself with small wins. Every action is a vote for the type of person you want to become. A person who writes one sentence a day is casting votes for the identity "I am a writer." Habits stick when they become part of self-image, because you are no longer chasing a result — you are acting in alignment with who you already are.
+
+THE HABIT LOOP: CUE, CRAVING, RESPONSE, REWARD
+
+Every habit runs through a four-step loop. The cue triggers the brain to notice an opportunity for reward. The craving is the motivational force — you crave the state change, not the habit itself. The response is the actual behavior. The reward satisfies the craving and teaches the brain to repeat the loop. From this loop Clear derives the Four Laws of Behavior Change for building good habits:
+
+1. Make it obvious (cue). Design your environment so cues for good habits are visible. Use implementation intentions: "I will [behavior] at [time] in [location]." Use habit stacking: attach a new habit to an existing one — "After I pour my morning coffee, I will meditate for one minute."
+2. Make it attractive (craving). Bundle a habit you need with one you want (temptation bundling). Join cultures where the desired behavior is normal, because we imitate the habits of the tribes we belong to.
+3. Make it easy (response). Reduce friction. Use the Two-Minute Rule: scale any habit down to a version that takes two minutes or less ("read one page," "put on running shoes"). Master the art of showing up before optimizing.
+4. Make it satisfying (reward). What is immediately rewarded is repeated; what is immediately punished is avoided. Use habit tracking for visible progress, and never miss twice — missing once is an accident, missing twice is the start of a new (bad) habit.
+
+To break bad habits, invert each law: make the cue invisible, the craving unattractive, the response difficult, and the reward unsatisfying.
+
+ENVIRONMENT DESIGN
+
+Clear argues environment beats willpower. Self-control is a short-term strategy; disciplined people simply structure their lives so temptation appears less often. Make good cues obvious (fruit on the counter, book on the pillow) and bad cues invisible (phone in another room). One space, one use: contexts become associated with habits, so dedicate spaces or devices to single behaviors.
+
+THE PLATEAU OF LATENT POTENTIAL
+
+Habits often appear to make no difference until you cross a critical threshold. Clear compares this to an ice cube that only melts when the room finally passes 32 degrees: the work was not wasted, it was stored. People quit in this "valley of disappointment" because they expect linear progress from a compounding process. Breakthrough moments are the release of accumulated potential.
+
+ADVANCED IDEAS
+
+- The Goldilocks Rule: peak motivation comes from working on tasks at the edge of current ability — not too easy, not too hard.
+- Talent and genes matter mainly by defining the areas where you can be improved most easily; choose the game where the odds favor you.
+- Reflection and review (annual reviews, integrity reports) keep habits aligned with identity and prevent complacency.
+- The downside of habits is mindless repetition; mastery requires habits plus deliberate practice.
+
+ACTIONABLE PRACTICES
+
+- Write an implementation intention for one new habit this week.
+- Stack a two-minute version of a desired habit onto an existing routine.
+- Redesign one room so the best choice is the most obvious choice.
+- Track one habit with a simple calendar chain and follow the never-miss-twice rule.
+
+CONNECTIONS TO OTHER BOOKS
+
+The compounding principle parallels The Compound Effect (Darren Hardy) and the consistency theme of The Miracle Morning. The identity-first approach echoes the growth-mindset work of Carol Dweck's Mindset. The focus on systems over goals complements The One Thing and Essentialism, which narrow what the system should be aimed at.

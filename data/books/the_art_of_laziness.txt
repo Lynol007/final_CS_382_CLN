@@ -1,0 +1,38 @@
+The Art of Laziness — Study Notes
+Author of original book: Library Mindset
+Topic: Productivity and working smarter
+
+CORE THESIS
+
+The Art of Laziness argues that most "laziness" is not a character flaw but a strategy problem: people procrastinate because tasks are vague, oversized, or joyless, and because they rely on motivation instead of systems. The book reframes productivity as doing the right things with the least wasted effort — being "lazy" about everything unimportant so you have energy for what matters. Working long hours is not the goal; producing results is.
+
+KEY IDEAS
+
+Stop waiting for motivation. Motivation follows action, not the other way around. If you wait to feel ready, you will wait forever. Start badly, start small, but start — momentum converts a cold engine into a warm one. The first ten minutes of any task are the hardest; commit only to those and the rest usually follows.
+
+The 80/20 of effort. A small fraction of tasks produces most of the results. The lazy-but-smart worker identifies those tasks and does them first, instead of hiding in busywork that feels productive but changes nothing. Being busy is a form of laziness — lazy thinking and indiscriminate action.
+
+Break it down. The brain resists large, ambiguous projects. Any task that triggers avoidance should be split into steps so small they feel trivial to begin. Vague goals ("get fit," "write a book") must be converted into concrete next actions ("walk 15 minutes," "write 200 words").
+
+Deadlines and constraints are friends. Work expands to fill the time available (Parkinson's Law). Self-imposed deadlines, timers, and artificial constraints force focus and prevent perfectionism. Perfectionism is procrastination wearing a suit: shipping something imperfect beats polishing something unfinished.
+
+Protect your energy, not just your time. Sleep, exercise, and breaks are productivity tools, not rewards. Willpower is finite across a day; schedule demanding work during personal peak hours and route decisions away from tired hours. Multitasking is a myth that taxes attention with switching costs.
+
+Eliminate, automate, delegate. Before doing any recurring task, ask three questions in order: Can it be eliminated entirely? Can it be automated? Can someone else do it? Only what survives all three deserves your personal effort. Saying no is the highest-leverage productivity skill.
+
+Design the environment. Remove friction from good behavior and add friction to distraction: phone out of reach, single browser tab, prepared workspace. Discipline is largely environment design in disguise.
+
+ACTIONABLE PRACTICES
+
+- Each morning, identify the one task that would make the day a success and do it first.
+- Use a 10-minute timer to start any avoided task; permission to stop when it rings.
+- Run the eliminate/automate/delegate filter over your weekly recurring tasks.
+- Set a hard deadline for one open-ended project this week.
+
+CRITICAL NOTES
+
+The book is a compact synthesis of established productivity ideas (Pareto principle, Parkinson's Law, environment design) rather than original research; its value is accessibility and bluntness rather than novelty.
+
+CONNECTIONS TO OTHER BOOKS
+
+The start-small principle is Atomic Habits' Two-Minute Rule; prioritizing the vital few is the core of The One Thing and Essentialism; energy management and deep focus parallel Deep Work; the anti-perfectionism, action-first stance echoes The Subtle Art's "do something" principle.

@@ -1,0 +1,35 @@
+Thematic Guide: Money and Wealth Mindsets
+Type: Cross-book thematic guide
+Topic: Comparing the library's money books — Think and Grow Rich, Rich Dad Poor Dad, The Psychology of Money
+
+THREE ERAS, THREE THEORIES OF WEALTH
+
+The library holds three money books spanning nearly a century, and they disagree productively.
+
+Think and Grow Rich (1937) is a psychology-first theory: wealth begins with burning desire, definite purpose, autosuggestion, and persistence. Its unit of analysis is the individual mind; its tools are the written chief aim, the master-mind group, and relentless planning. Its blind spot, by modern standards, is survivorship bias — it studies winners and infers rules.
+
+Rich Dad Poor Dad (1997) is a structure-first theory: wealth is what happens when income is routed into assets (things that pay you) instead of liabilities (things you pay for). Its unit of analysis is the balance sheet; its tools are financial literacy, entity structures, and "pay yourself first." Its blind spot is risk: leverage and real estate look easy in anecdotes.
+
+The Psychology of Money (2020) is a behavior-first theory: wealth is what survives your own psychology. Its unit of analysis is decades of compounding; its tools are savings rate, margin of safety, and defining "enough." It explicitly answers the other two books' gaps: luck and risk are siblings (contra Hill's implied determinism), and staying wealthy requires the opposite temperament from getting wealthy (contra Kiyosaki's aggressive optimism).
+
+POINTS OF AGREEMENT
+
+- Income is not wealth. All three separate salary from wealth: Hill focuses on purpose beyond wages, Kiyosaki on the asset column, Housel on unspent savings ("wealth is what you don't see").
+- Pay yourself first. Kiyosaki's rule and Housel's savings-rate emphasis converge: automate saving before spending. The Compound Effect's tracking applies directly — logging every expense for a week is the money version of habit tracking.
+- Fear is the main adversary. Hill's six ghosts of fear, Kiyosaki's fear of losing money, and Housel's panic-selling all identify emotion, not information, as the destroyer of financial plans.
+- Long horizons win. Hill's persistence, Kiyosaki's decades of asset building, and Housel's compounding all reward the person who can stay in the game longest — which links money directly to the consistency books (Atomic Habits, The Compound Effect).
+
+POINTS OF CONFLICT
+
+- Optimism vs. survival. Kiyosaki: think big, use leverage, escape the rat race. Housel: room for error first — the ability to survive a bad decade beats the chance of a great year. A reader following both ends up with Housel's foundation (emergency runway, sustainable savings) under Kiyosaki's ambition (assets over lifestyle).
+- Visualization vs. behavior. Hill's affirmations and visualized riches contrast with Housel's insistence that reasonable, boring behavior beats brilliant intentions. The modern reading: use Hill's specificity for goals, Housel's humility for methods.
+- "Your house is not an asset" (Kiyosaki) remains the most debated single claim; Housel's frame resolves it — a home is partly consumption, partly savings, and judging it purely as an investment misses why people buy homes.
+
+A PRACTICAL SYNTHESIS
+
+1. Define "enough" and an emergency runway in months (The Psychology of Money).
+2. Automate: pay yourself first into investments (Rich Dad Poor Dad).
+3. Write a definite financial aim with amount and date (Think and Grow Rich) — but let the date flex; the savings rate is the commitment.
+4. Study one financial-literacy pillar per quarter: accounting, investing, markets, law (Rich Dad Poor Dad).
+5. Judge every money choice by whether it lets you sleep and stay in the game (The Psychology of Money).
+6. Guard time freedom as the highest return: money's best dividend is control over your schedule (Housel), which is also what Deep Work and Essentialism spend that freedom on.

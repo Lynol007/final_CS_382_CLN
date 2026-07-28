@@ -1,0 +1,39 @@
+Thematic Guide: Focus and Productivity Systems
+Type: Cross-book thematic guide
+Topic: Comparing Deep Work, The One Thing, Essentialism, and The Art of Laziness
+
+THE SHARED DIAGNOSIS
+
+Four books in this library attack the same disease from different angles: modern work defaults to shallow busyness — inboxes, meetings, multitasking, saying yes — which feels productive while producing little. All four agree on the core physics: attention is finite, task-switching leaves residue that degrades thinking (Deep Work's "attention residue," The One Thing's multitasking myth, The Art of Laziness's switching costs), and results follow a power law where a few activities produce most of the value (Essentialism's vital few, The One Thing's 80/20-then-shrink-it, The Art of Laziness's lazy 80/20).
+
+THE DIVISION OF LABOR
+
+Essentialism answers "what should I even be doing?" — the selection problem. Its tools: the 90 Percent Rule (if not a clear yes, it's a no), trade-off honesty, graceful nos, uncommitting from sunk costs, and buffers.
+
+The One Thing answers "of the essential things, what comes first?" — the sequencing problem. Its tools: the Focusing Question, goal-setting to the now (someday → today chain), and the four-hour time block.
+
+Deep Work answers "how do I execute with full intensity?" — the concentration problem. Its tools: depth philosophies (rhythmic scheduling for most people), rituals, embracing boredom to train attention, the shutdown ritual, and draining the shallows with time blocking.
+
+The Art of Laziness answers "how do I stop leaking effort?" — the efficiency problem. Its tools: eliminate/automate/delegate, Parkinson's Law deadlines, ten-minute starts, and anti-perfectionism.
+
+The books chain naturally: select (Essentialism) → sequence (The One Thing) → execute deeply (Deep Work) → strip friction (The Art of Laziness).
+
+KEY DISAGREEMENTS
+
+- Balance. Essentialism protects sleep, play, and boundaries as productivity multipliers. The One Thing openly says extraordinary results require going out of balance (then counterbalancing). Deep Work sides with Essentialism via fixed-schedule productivity: hard stop, work backward.
+- Four hours vs. one hour. The One Thing demands a four-hour daily block; Deep Work notes that even experts max out around four hours of true depth, but beginners should start with 60–90 minutes. The Art of Laziness would call four hours a perfectionism trap for a novice: start with ten minutes.
+- Saying no. Essentialism makes refusal a philosophy; How to Win Friends (elsewhere in the library) supplies the diplomacy for delivering the no without burning the relationship — a useful pairing, since McKeown's "separate the decision from the relationship" is exactly Carnegie's territory.
+
+SHARED ENEMIES AND SHARED TOOLS
+
+- The phone: Deep Work's tool audit, The Art of Laziness's friction design, and Atomic Habits' make-it-invisible law converge on the same move — physical distance from the device during blocks.
+- The calendar: time blocking appears in all four (schedule the priority first; let the trivial fight for leftovers). Covey said it first: schedule your priorities, don't prioritize your schedule.
+- Energy: The One Thing's willpower budget, The Art of Laziness's peak hours, Essentialism's protected sleep, and The Miracle Morning's routine all place demanding work early and recovery on the schedule, not in the gaps.
+
+A PRACTICAL SYNTHESIS PROTOCOL
+
+1. Quarterly: write one essential intent (Essentialism).
+2. Weekly: run the Focusing Question chain down to daily One Things (The One Thing).
+3. Daily: one protected deep block, phone in another room, shutdown ritual at a fixed stop time (Deep Work).
+4. Continuously: run eliminate/automate/delegate over recurring tasks; set aggressive deadlines for open-ended work (The Art of Laziness).
+5. When the system slips: restart with a ten-minute timer, never with self-punishment (The Art of Laziness, Atomic Habits' never-miss-twice).

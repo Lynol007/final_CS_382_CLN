@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "kind": "single-book factual",
+    "query": "What does Atomic Habits say about habit stacking?",
+    "top1": "Atomic Habits",
+    "top_score": 0.674,
+    "retrieved_titles": [
+      "Atomic Habits",
+      "Guide: Habit Formation Across the Library",
+      "Guide: Habit Formation Across the Library",
+      "The 7 Habits of Highly Effective People"
+    ],
+    "retrieval_ms": 7490,
+    "retrieval_hit": true,
+    "generation_ms": 9545,
+    "engine": "gemini",
+    "answer": "According to the library guide, *Atomic Habits* defines habit stacking as the process of attaching a new habit to an existing routine [Guide: Habit Formation Across the Library]. This relies on the broader strategy shared across habit-building literature of shrinking a behavior until it is easy to repeat and attaching it directly to a stable trigger [Guide: Habit Formation Across the Library].\n\nTo clarify the nuance of the concept, the sources distinguish habit stacking from other frequently confused techniques in *Atomic Habits* and other books [Guide: Habit Formation Across the Library]. While habit stacking pairs a new behavior with an established routine, \"temptation bundling\" (also from *Atomic Habits*) involves pairing a habit you *need* to do with a pleasure you *want* to experience [Guide: Habit Formation Across the Library]. Both are distinct from \"bookending,\" which refers to fixed morning and evening routines [Guide: Habit Formation Across the Library].\n\nThe provided excerpts do not contain further detailed steps or expanded instructions on habit stacking from *Atomic Habits* beyond this core definition, its trigger mechanism, and its distinction from temptation bundling and bookending.",
+    "cites_expected": true
+  },
+  {
+    "id": 2,
+    "kind": "concept lookup (no book named)",
+    "query": "How can I stop caring so much about other people's opinions of me?",
+    "top1": "The Four Agreements",
+    "top_score": 0.479,
+    "retrieved_titles": [
+      "The Four Agreements",
+      "How to Win Friends and Influence People",
+      "How to Win Friends and Influence People",
+      "How to Win Friends and Influence People"
+    ],
+    "retrieval_ms": 81,
+    "retrieval_hit": true,
+    "generation_ms": 17737,
+    "engine": "gemini",
+    "answer": "To stop caring so much about other people's opinions, you must adopt the principle of not taking anything personally [The Four Agreements]. Nothing that other people say or do is actually because of you; rather, their opinions, insults, and even praise are simply projections of their own reality, internal world, and personal agreements [The Four Agreements]. Developing complete immunity to both positive and negative opinions is the key to personal freedom; taking things personally turns other people’s thoughts into your personal prison and makes you vulnerable to emotional manipulation [The Four Agreements].\n\nIn practice, freeing yourself from the weight of others' expectations requires eliminating assumptions and redirecting your focus inward [The Four Agreements]. Much of interpersonal anxiety comes from assuming we know what others think or mean, which can be dissolved by having the courage to ask questions and communicate clearly [The Four Agreements]. Additionally, you should focus strictly on always doing your best [The Four Agreements]. Recognizing that your \"best\" changes from moment to moment depending on factors like health and energy protects you from both burnout and self-judgment, keeping your focus on your own efforts rather than outside evaluation [The Four Agreements].\n\nWhile *The Four Agreements* focuses on internal immunity to outside judgment [The Four Agreements], *How to Win Friends and Influence People* addresses how to handle others' opinions outward in daily interactions [How to Win Friends and Influence People]. Dale Carnegie advises showing respect for others' opinions and avoiding arguments to preserve goodwill [How to Win Friends and Influence People]. However, while Carnegie emphasizes respecting others' viewpoints and making them feel important through sincere appreciation [How to Win Friends and Influence People], Ruiz clarifies that you must not let those external opinions—whether critical or admiring—define your self-worth or dictate your peace of mind [The Four Agreements].",
+    "cites_expected": true
+  },
+  {
+    "id": 3,
+    "kind": "cross-book comparison",
+    "query": "Compare what Rich Dad Poor Dad and The Psychology of Money say about building wealth.",
+    "top1": "Guide: Money & Wealth Mindsets",
+    "top_score": 0.764,
+    "retrieved_titles": [
+      "Guide: Money & Wealth Mindsets",
+      "Guide: Money & Wealth Mindsets",
+      "Rich Dad Poor Dad",
+      "The Psychology of Money"
+    ],
+    "retrieval_ms": 60,
+    "retrieval_hit": true,
+    "generation_ms": 10032,
+    "engine": "gemini",
+    "answer": "*Rich Dad Poor Dad* and *The Psychology of Money* offer distinct yet complementary theories on how to build wealth. *Rich Dad Poor Dad* presents a \"structure-first\" framework centered on financial literacy and balance sheet management [Guide: Money & Wealth Mindsets]. Its core thesis is that wealth comes from making money work for you by acquiring income-producing assets—such as businesses, stocks, real estate, and royalties—rather than climbing a salary ladder or purchasing liabilities like homes and cars [Rich Dad Poor Dad]. In contrast, *The Psychology of Money* presents a \"behavior-first\" theory, asserting that real-world financial success is driven less by math or intelligence and more by human psychology, ego, fear, and patience over decades of compounding [Guide: Money & Wealth Mindsets, The Psychology of Money]. \n\nIn practice, *Rich Dad Poor Dad* encourages building wealth through financial education, entity structures, aggressive optimism, and redirecting cash flow into the asset column to sustain a person without working [Guide: Money & Wealth Mindsets, Rich Dad Poor Dad]. *The Psychology of Money*, however, focuses on behavioral tools like increasing one's savings rate, establishing a margin of safety, and learning to define \"enough\" [Guide: Money & Wealth Mindsets]. It directly critiques the aggressive, anecdotal optimism of Kiyosaki's framework, noting that leverage carries real risk and that staying wealthy requires a completely different temperament—humility and risk awareness—than getting wealthy in the first place [Guide: Money & Wealth Mindsets]. \n\nDespite their different points of emphasis, both titles agree on key fundamental principles [Guide: Money & Wealth Mindsets]. Both separate income from actual wealth, viewing wealth not as a high salary, but as the assets you own [Rich Dad Poor Dad] or the unspent money you do not see [Guide: Money & Wealth Mindsets]. Finally, both books converge on the rule of \"paying yourself first,\" advocating that saving or investing into assets should be automated before paying for discretionary spending [Guide: Money & Wealth Mindsets].",
+    "cites_expected": true
+  },
+  {
+    "id": 4,
+    "kind": "named-concept lookup",
+    "query": "What is the 40% rule and who came up with it?",
+    "top1": "Can't Hurt Me",
+    "top_score": 0.232,
+    "retrieved_titles": [
+      "Can't Hurt Me",
+      "Guide: Focus & Productivity Systems",
+      "Atomic Habits",
+      "Guide: Focus & Productivity Systems"
+    ],
+    "retrieval_ms": 122,
+    "retrieval_hit": true,
+    "generation_ms": 13664,
+    "engine": "gemini",
+    "answer": "Based on the provided source, the 40% Rule is referenced in *Can't Hurt Me* by David Goggins [Can't Hurt Me]. It is described as a visceral version of the concept found in *Mindset* that human ability is expandable [Can't Hurt Me]. \n\nHowever, the provided text does not contain enough information to fully explain the specific details of how the 40% Rule works, its complete definition, or explicitly state who originally came up with it beyond its association with David Goggins' work [Can't Hurt Me].",
+    "cites_expected": true
+  },
+  {
+    "id": 5,
+    "kind": "multi-book synthesis",
+    "query": "What morning routine do these books recommend?",
+    "top1": "The Compound Effect",
+    "top_score": 0.542,
+    "retrieved_titles": [
+      "The Compound Effect",
+      "Guide: Habit Formation Across the Library",
+      "The Miracle Morning",
+      "The Compound Effect"
+    ],
+    "retrieval_ms": 298,
+    "retrieval_hit": true,
+    "generation_ms": 9798,
+    "engine": "gemini",
+    "answer": "The sources recommend using a morning routine as a fixed anchor or \"bookend\" to set the tone for the day and break negative loops [The Compound Effect, Guide: Habit Formation Across the Library, The Miracle Morning]. *The Miracle Morning* advocates for a dedicated morning hour that bundles six practices, allocating roughly ten minutes to each practice [The Miracle Morning, Guide: Habit Formation Across the Library]. To ensure you wake up consistently, it prescribes a pre-engineered five-step routine: set intentions before bed, move the alarm clock across the room, brush your teeth immediately, drink a full glass of water, and get into workout clothes [The Miracle Morning]. Similarly, *The Compound Effect* recommends establishing a fixed wake routine as a morning bookend, which includes replacing media noise with instructive material and using commute time as a classroom [The Compound Effect].\n\nHowever, the sources present differing views on how much to include in a morning routine. While *The Miracle Morning* relies on bundling six distinct practices together, *The One Thing* explicitly warns against habit bundling, demanding instead that you dedicate morning time to a single, time-blocked priority [Guide: Habit Formation Across the Library]. *Essentialism* goes even further, advocating for trimming morning commitments down to the absolute minimum [Guide: Habit Formation Across the Library]. \n\nTo reconcile these approaches, the library guide offers a practical synthesis protocol [Guide: Habit Formation Across the Library]. It recommends creating a fixed morning container with a pre-engineered wake-up [The Miracle Morning], but focusing that container on a single highest-leverage habit [The One Thing]. In practice, this single habit should be scaled down to two minutes, stacked onto an existing morning routine, and tracked daily in writing [Guide: Habit Formation Across the Library, Atomic Habits, The Compound Effect]. Key nuances include flexibility and gradual progression: *The Miracle Morning* emphasizes that a compressed six-minute routine (one minute per practice) can preserve the habit on busy days [The Miracle Morning], while the synthesis protocol suggests deliberately raising the habit's difficulty only after it has stabilized for 66 days [Guide: Habit Formation Across the Library].",
+    "cites_expected": true
+  },
+  {
+    "id": 6,
+    "kind": "practical how-to",
+    "query": "How do I do deep focused work without getting distracted by my phone?",
+    "top1": "Deep Work",
+    "top_score": 0.61,
+    "retrieved_titles": [
+      "Deep Work",
+      "Deep Work",
+      "Guide: Focus & Productivity Systems",
+      "Deep Work"
+    ],
+    "retrieval_ms": 223,
+    "retrieval_hit": true,
+    "generation_ms": 13774,
+    "engine": "gemini",
+    "answer": "To do deep, focused work without getting distracted by your phone, you must first understand how task-switching harms your cognitive performance. Deep work is defined as distraction-free concentration that pushes your cognitive capabilities to their limits [Deep Work]. The quality of your work depends on both the time spent and the intensity of your focus [Deep Work]. Whenever you glance at your phone or switch tasks, it leaves an \"attention residue\" that degrades your thinking and lowers your performance on your main objective [Deep Work, Guide: Focus & Productivity Systems]. Furthermore, constantly checking your phone actively conditions your brain to crave novelty, creating a mind that cannot tolerate stillness [Deep Work].\n\nTo overcome phone distractions, Cal Newport suggests inverting conventional productivity advice: rather than scheduling blocks of time for focus, you should schedule specific, limited time blocks for distraction, leaving the rest of your schedule focused [Deep Work]. In practice, this means actively training your mind to \"embrace boredom\" by refusing to check your phone during routine downtime, such as while waiting in queues or commuting [Deep Work]. You should also evaluate your phone apps using a \"craftsman approach,\" keeping a social media app or digital tool only if its benefits substantially outweigh its costs to your primary goals—otherwise, you should audit or quit the app [Deep Work].\n\nTo structure your workday around uninterrupted focus, schedule every minute of your day into time blocks, incorporating dedicated daily deep-work sessions (such as an unbroken 90-minute block) [Deep Work]. Guard your attention like an investor by treating shallow tasks—such as checking messages or status updates—as secondary [Deep Work]. Process emails and notifications in batches rather than reacting continuously, and write replies that close communication loops [Deep Work]. Finally, you can build your focus stamina through \"productive meditation,\" which involves focusing your mind on a single defined professional problem while engaging in a physical activity like walking [Deep Work].",
+    "cites_expected": true
+  },
+  {
+    "id": 7,
+    "kind": "recommendation",
+    "query": "Which book should I read first if I procrastinate a lot?",
+    "top1": "Guide: A Reader's Roadmap",
+    "top_score": 0.578,
+    "retrieved_titles": [
+      "Guide: A Reader's Roadmap",
+      "The Art of Laziness",
+      "The Art of Laziness",
+      "The Compound Effect"
+    ],
+    "retrieval_ms": 163,
+    "retrieval_hit": true,
+    "generation_ms": 10812,
+    "engine": "gemini",
+    "answer": "If your primary blocker is procrastination and perfectionism, you should start with ***The Art of Laziness*** [Guide: A Reader's Roadmap]. The book reframes procrastination not as a character flaw, but as a strategy problem caused by vague, oversized, or joyless tasks and an over-reliance on motivation rather than systems [The Art of Laziness]. It argues that productivity means doing the right things with the least wasted effort—being \"lazy\" about unimportant tasks so you preserve energy for results [The Art of Laziness]. Crucially, it teaches that motivation follows action; taking small, imperfect steps builds momentum because the first ten minutes of any task are always the hardest [The Art of Laziness].\n\nTo put this into practice, *The Art of Laziness* recommends simple routines to overcome inaction [The Art of Laziness]. Each morning, identify the single task that would make the day a success and complete it first [The Art of Laziness]. For avoided tasks, use a 10-minute timer to begin with the explicit permission to stop once the timer rings, allowing you to bypass initial friction [The Art of Laziness]. You can also streamline your workflow by running an eliminate, automate, or delegate filter over recurring weekly tasks, focusing your energy strictly on the small fraction of efforts that produce most of your results [The Art of Laziness].\n\nThe sources highlight that *The Art of Laziness* is a compact, blunt synthesis of established productivity concepts rather than original research, which makes it an accessible starting point [The Art of Laziness]. Its core principles overlap with several other books: its start-small approach mirrors the Two-Minute Rule in *Atomic Habits*, and its action-first mindset echoes *The Subtle Art of Not Giving a F*ck* [The Art of Laziness]. If you find that your procrastination is part of a broader struggle to stick to habits or systems, *Atomic Habits* provides the underlying mechanics like environment design, whereas *The Mountain Is You* offers an alternative lens by suggesting that repeated failure to stick to systems might actually be a form of self-protection rather than simple weakness [Guide: A Reader's Roadmap].",
+    "cites_expected": true
+  },
+  {
+    "id": 8,
+    "kind": "off-topic (graceful failure)",
+    "query": "What is the recipe for chocolate cake?",
+    "top1": "Think and Grow Rich",
+    "top_score": 0.166,
+    "retrieved_titles": [
+      "Think and Grow Rich",
+      "Awaken the Giant Within",
+      "Awaken the Giant Within",
+      "The Four Agreements"
+    ],
+    "retrieval_ms": 70,
+    "graceful_failure": true
+  }
+]

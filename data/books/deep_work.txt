@@ -1,0 +1,38 @@
+Deep Work — Study Notes
+Author of original book: Cal Newport
+Topic: Focus and productivity
+
+CORE THESIS
+
+Newport defines deep work as professional activity performed in a state of distraction-free concentration that pushes cognitive capabilities to their limit — creating new value, improving skill, and being hard to replicate. Its opposite, shallow work, is logistical, low-value, and easy to replicate (email, meetings, status updates). The book's two claims: deep work is increasingly valuable in the knowledge economy (it is how you learn hard things fast and produce at an elite level), and it is increasingly rare (open offices, chat, social media) — therefore the few who cultivate it have an enormous advantage. Depth is also framed as a source of meaning: concentration itself generates satisfaction.
+
+KEY IDEAS
+
+The deep work hypothesis. High-quality work produced = time spent × intensity of focus. Attention residue from task-switching degrades intensity: every glance at the inbox leaves residue that lowers performance on the main task. Long, unbroken blocks beat fragmented hours.
+
+The four philosophies of scheduling depth:
+1. Monastic — eliminate shallow obligations almost entirely (rare, for writers/researchers).
+2. Bimodal — divide the year or week into deep stretches and open stretches.
+3. Rhythmic — a daily habit at the same time, chain-method consistency; the most practical for normal jobs.
+4. Journalistic — drop into depth whenever a gap appears (requires trained switching skill).
+
+Work like a craftsman: rituals and routines. Decide where you will work, for how long, how you will work (rules: no internet, metrics like words per hour), and how you will support the session (coffee, walking, environment). Grand gestures (a paid-for hotel room, a cabin) leverage psychology to raise the stakes of focus.
+
+Execute like a business (4DX). Focus on a wildly important goal; act on lead measures (hours of deep work logged, not outcomes); keep a compelling scoreboard; review weekly. Also: the shutdown ritual — a strict end-of-day routine that closes open loops so the unconscious mind can work and attention can recover. Downtime is not idleness; it is when insight consolidates.
+
+Embrace boredom. The ability to concentrate is trained, and constant phone-checking trains the opposite: a mind that cannot tolerate stillness. Newport inverts the usual advice — schedule blocks for distraction rather than blocks for focus, and let the mind be bored in queues and commutes. Productive meditation: work on a defined problem while walking.
+
+Quit social media (or audit it). Apply the craftsman approach to tools: adopt a tool only if its benefits substantially outweigh its costs for your core goals, not merely because it offers some benefit. Attention is the professional's capital; guard it like an investor.
+
+Drain the shallows. Schedule every minute of the day in blocks (and revise as the day changes); quantify the depth of each activity; ask your boss for a shallow-work budget; become hard to reach — process email in batches, and write replies that close loops instead of opening them. Fixed-schedule productivity: set a firm finish time and work backward, forcing ruthless prioritization.
+
+ACTIONABLE PRACTICES
+
+- Choose a depth philosophy (rhythmic is the default) and book a daily 90-minute block.
+- Design a shutdown ritual and end each workday with it.
+- Time-block tomorrow on paper; compare plan vs. reality at day's end.
+- Run the cost/benefit audit on each social app for 30 days off.
+
+CONNECTIONS TO OTHER BOOKS
+
+Deep Work supplies the "how" of focus for the "what" chosen in The One Thing and Essentialism. The trained-attention argument parallels The Power of Now on a secular axis. The scoreboard and lead measures echo Atomic Habits' habit tracking, and fixed-schedule productivity complements The Art of Laziness's use of constraints.

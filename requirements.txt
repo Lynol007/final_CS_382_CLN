@@ -1,0 +1,9 @@
+# Core
+streamlit
+scikit-learn
+numpy
+sentence-transformers   # semantic embeddings (all-MiniLM-L6-v2), runs locally
+openai                  # LLM generation (reads OPENAI_API_KEY from .env)
+
+# Optional
+# faiss-cpu             # swap in a real vector DB if the corpus grows large
